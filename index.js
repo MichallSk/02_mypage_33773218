@@ -21,7 +21,7 @@ http.createServer(function(req, res) {
         <p>I enjoy programming, gaming, and exploring new technologies. In my free time, I like to learn about AI tools and cyber security.</p>
 
         <h2>Future Goals</h2>
-        <p>I want to become an ceyber security and AI exper.</p>
+        <p>I want to become an Cyber Security and AI exper.</p>
       </body>
     </html>`));
     //small change for commit

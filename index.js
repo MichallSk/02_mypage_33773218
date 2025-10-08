@@ -13,7 +13,7 @@ http.createServer(function(req, res) {
         <h1>Welcome to My Page</h1>
         
         <h2>About Me</h2>
-        <p>My name is Michal, and I’m a Computer Science student interested in security and AI.</p>
+        <p>My name is Michal, and I’m a Computer Science student interested in Cyber Security and AI.</p>
 
         <h2>My Hobbies</h2>
         <p>I enjoy programming, gaming, and exploring new technologies. In my free time, I like to learn about AI tools and cyber security.</p>
@@ -22,6 +22,8 @@ http.createServer(function(req, res) {
         <p>I want to become an ceyber security and AI exper.</p>
       </body>
     </html>`));
+    //small change for commit
+    
     }).listen(port, function() { 
         console.log(`Node server is running on port ${port}...`); 
 }); 
